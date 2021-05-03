@@ -1,10 +1,12 @@
-<img align="right" src="kmmm.png" width="430px" alt="Kemomimi Chan" title="Kemomimi Chan" />
+<img align="right" src="kmmm.png" width="400px" alt="Kemomimi Chan" title="Kemomimi Chan" />
 
-### Hi there 👋
+终于有人来看咱了呢qwq
 
-- 🔭 I’m currently working on [The Online Judging System Hydro](https://github.com/hydro-dev/Hydro)
-- 🌱 I’m currently learning React
-- 🤔 I’m looking for help with [Hydro UI](https://github.com/hydro-dev/ui-default)
-- 📫 How to reach me: QQ 3402182471 or email masnn0@outlook.com
+- 正在开发： [Hydro 在线评测系统](https://github.com/hydro-dev/Hydro)
+- 联系方式：QQ::3402182471 / Email::i@undefined.moe
+- 编程习惯：
+  - 面向 Google
+  - 面向 StackOverflow
+- [饿饿！饭饭！](https://img.undefined.moe:38443/images/2019/03/15/alipay.png)
 
-<img src="https://github-readme-stats.vercel.app/api?username=undefined-moe&show_icons=true" width="400px" alt="Undefined's github stats" title="Undefined's github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=undefined-moe&show_icons=true" width="440px" alt="Undefined's github stats" title="Undefined's github stats" />
