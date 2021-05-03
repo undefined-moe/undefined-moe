@@ -1,3 +1,5 @@
+<img align="right" src="kmmm.png" width="430px" alt="Kemomimi Chan" title="Kemomimi Chan" />
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on [The Online Judging System Hydro](https://github.com/hydro-dev/Hydro)
