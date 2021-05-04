@@ -3,7 +3,9 @@
 终于有人来看咱了呢qwq
 
 - 正在开发： [Hydro 在线评测系统](https://github.com/hydro-dev/Hydro)
-- 联系方式：QQ::3402182471 / Email::i@undefined.moe
+- 联系方式：
+  - QQ::3402182471
+  - Email::i@undefined.moe
 - 编程习惯：
   - 面向 Google
   - 面向 StackOverflow
