@@ -9,4 +9,4 @@
   - 面向 StackOverflow
 - [饿饿！饭饭！](https://img.undefined.moe:38443/images/2019/03/15/alipay.png)
 
-<img src="https://github-readme-stats.vercel.app/api?username=undefined-moe&show_icons=true" width="440px" alt="Undefined's github stats" title="Undefined's github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=undefined-moe&show_icons=true" width="430px" alt="Undefined's github stats" title="Undefined's github stats" />
