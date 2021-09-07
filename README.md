@@ -9,6 +9,6 @@
 - 编程习惯：
   - 面向 Google
   - 面向 StackOverflow
-- [饿饿！饭饭！](https://img.undefined.moe:38443/images/2019/03/15/alipay.png)
+- [饿饿！饭饭！](https://pay.undefined.moe/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=undefined-moe&show_icons=true" width="430px" alt="Undefined's github stats" title="Undefined's github stats" />
