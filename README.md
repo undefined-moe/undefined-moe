@@ -11,4 +11,4 @@
   - 面向 StackOverflow
 - [饿饿！饭饭！](https://pay.undefined.moe/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=undefined-moe&show_icons=true" width="430px" alt="Undefined's github stats" title="Undefined's github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=undefined-moe&show_icons=true" width="400px" alt="Undefined's github stats" title="Undefined's github stats" />
