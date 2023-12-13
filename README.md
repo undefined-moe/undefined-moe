@@ -2,13 +2,20 @@
 
 终于有人来看咱了呢qwq
 
-- 正在开发： [Hydro 在线评测系统](https://github.com/hydro-dev/Hydro)
-- 联系方式：
-  - QQ::3402182471
-  - Email::i@undefined.moe
-- 编程习惯：
-  - 面向 Google
-  - 面向 StackOverflow
-- [饿饿！饭饭！](https://pay.undefined.moe/)
+### 主力开发 / Mainly working on:
+- [Hydro 在线评测系统 / Hydro Online-Judge Platform](https://github.com/hydro-dev/Hydro)
 
-<img src="https://github-readme-stats.vercel.app/api?username=undefined-moe&show_icons=true" width="400px" alt="Undefined's github stats" title="Undefined's github stats" />
+### 协作 / Cooperating with:
+- [Koishi - Cross platform chatbot framework](https://github.com/koishijs/koishi)
+- [project-trans](https://github.com/project-trans)
+- [vijos](https://github.com/vijos)
+
+### 联系方式 / Contact me:
+- Email i@undefined.moe
+- Telegram @undefinedmoe
+- QQ 3402182471
+
+Currently a student in year 2 and looking for a job (Work from home preferred).  
+If you are interested in of benefits from my work, donating via Github Sponsor or the QRCode below is always welcome.  
+[饿饿！饭饭！](https://pay.undefined.moe/)  
+
