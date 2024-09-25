@@ -15,7 +15,7 @@
 - Telegram @undefinedmoe
 - QQ 3402182471
 
-Currently a student in year 2 and looking for a job (Work from home preferred).  
+Currently a student in year 4 and looking for a job (Work from home preferred).  
 If you are interested in of benefits from my work, donating via Github Sponsor or the QRCode below is always welcome.  
 [饿饿！饭饭！](https://pay.undefined.moe/)  
 
