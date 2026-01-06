@@ -17,11 +17,10 @@
 
 ### 联系方式 / Contact me:
 - Email i@undefined.moe
-- Telegram @undefinedmoe
+- Telegram [@undefinedmoe](https://t.me/undefinedmoe)
 - QQ 3402182471
 
-Just graduated 2025 and looking for a job (Work from home preferred).  
-If you are interested in of benefits from my work, donating via Github Sponsor or the Alipay QRCode below is always welcome.  
+If you are interested in or benefits from my work, donating via Github Sponsor or the Alipay QRCode below is always welcome.  
 
 [饿饿！饭饭！](https://pay.undefined.moe/)  
 
